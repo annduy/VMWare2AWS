@@ -11,7 +11,7 @@ ovf_tool = 'C:\\Program Files\\VMware\\VMware OVF Tool\\ovftool.exe'
 powershell = "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
 
 ###### VMWare VM info
-vmdk_path ='D:\\VMWare-VMs\\UbuntuServer20046'
+vmdk_path ='G:\\VMWare-VMs\\UbuntuServer20046'
 vmx_file = 'UbuntuServer20046.vmx'
 
 ###### AWS info
